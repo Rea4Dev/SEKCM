@@ -1,0 +1,304 @@
+/* =========================================================
+   MIME AND DASH — CINEMATIC ENHANCEMENT PACK
+   Microdetalhes visuais + atmosfera + neon suave
+   ========================================================= */
+
+
+/* =========================================================
+   1. TEXTO SELECIONADO — GLOW REATIVO
+   ========================================================= */
+
+::selection {
+
+    background: rgba(255, 60, 90, 0.28);
+    color: #ffffff;
+
+    text-shadow:
+        0 0 8px rgba(255, 80, 110, 0.70);
+}
+
+
+/* =========================================================
+   2. LINHA ATIVA NO EDITOR
+   ========================================================= */
+
+.markdown-source-view.mod-cm6 .cm-active {
+
+    background: rgba(255,255,255,0.025);
+
+    border-radius: 6px;
+
+    transition:
+        background 0.2s ease;
+}
+
+
+/* =========================================================
+   3. HEADINGS — RESPIRAÇÃO NEON SUAVE
+   ========================================================= */
+
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6,
+
+.markdown-source-view.mod-cm6 .cm-header-1,
+.markdown-source-view.mod-cm6 .cm-header-2,
+.markdown-source-view.mod-cm6 .cm-header-3,
+.markdown-source-view.mod-cm6 .cm-header-4,
+.markdown-source-view.mod-cm6 .cm-header-5,
+.markdown-source-view.mod-cm6 .cm-header-6 {
+
+    animation:
+        neonBreath 4s ease-in-out infinite;
+}
+
+@keyframes neonBreath {
+
+    0% {
+        filter: brightness(1);
+    }
+
+    50% {
+        filter: brightness(1.12);
+    }
+
+    100% {
+        filter: brightness(1);
+    }
+}
+
+
+/* =========================================================
+   4. RIBBON — HOVER HOLOGRÁFICO
+   ========================================================= */
+
+.side-dock-ribbon-action {
+
+    border-radius: 10px;
+
+    transition:
+        background 0.22s ease,
+        transform 0.22s ease,
+        filter 0.22s ease;
+}
+
+.side-dock-ribbon-action:hover {
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(255,255,255,0.08),
+            rgba(255,80,100,0.08)
+        );
+
+    transform: scale(1.08);
+
+    filter:
+        drop-shadow(0 0 8px rgba(255, 70, 90, 0.35));
+}
+
+
+/* =========================================================
+   5. WALLPAPER — FADE CINEMATOGRÁFICO
+   ========================================================= */
+
+.workspace {
+
+    mask-image:
+        radial-gradient(
+            circle,
+            rgba(0,0,0,1) 52%,
+            rgba(0,0,0,0.82) 72%,
+            rgba(0,0,0,0.55) 100%
+        );
+
+    -webkit-mask-image:
+        radial-gradient(
+            circle,
+            rgba(0,0,0,1) 52%,
+            rgba(0,0,0,0.82) 72%,
+            rgba(0,0,0,0.55) 100%
+        );
+}
+
+
+/* =========================================================
+   6. PROFUNDIDADE VISUAL GLOBAL
+   ========================================================= */
+
+.workspace-leaf-content,
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 {
+
+    text-shadow:
+        0 0 1px rgba(255,255,255,0.02);
+}
+
+
+/* =========================================================
+   7. TABS — EFEITO MAIS SUAVE
+   ========================================================= */
+
+.workspace-tab-header {
+
+    border-radius: 10px 10px 0 0;
+
+    transition:
+        background 0.22s ease,
+        transform 0.22s ease,
+        box-shadow 0.22s ease;
+}
+
+.workspace-tab-header:hover {
+
+    background: rgba(255,255,255,0.04) !important;
+
+    box-shadow:
+        0 0 10px rgba(255,255,255,0.03);
+}
+
+
+/* =========================================================
+   8. LINKS — BRILHO LEVE
+   ========================================================= */
+
+.cm-link,
+.external-link,
+.internal-link {
+
+    transition:
+        color 0.2s ease,
+        text-shadow 0.2s ease;
+}
+
+.cm-link:hover,
+.external-link:hover,
+.internal-link:hover {
+
+    text-shadow:
+        0 0 8px currentColor;
+}
+
+
+/* =========================================================
+   9. BLOCO DE CÓDIGO MAIS CINEMÁTICO
+   ========================================================= */
+
+/*.markdown-rendered pre,
+.markdown-source-view.mod-cm6 .HyperMD-codeblock {
+
+    background: rgba(255,255,255,0.025) !important;
+
+    border:
+        1px solid rgba(255,255,255,0.04);
+
+    border-radius: 12px;
+
+    box-shadow:
+        0 0 20px rgba(0,0,0,0.25);
+}*/
+
+
+/* =========================================================
+   10. CURSOR MAIS ORGÂNICO
+   ========================================================= */
+
+.cm-cursor {
+
+    animation:
+        cursorPulse 1.8s ease-in-out infinite;
+}
+
+@keyframes cursorPulse {
+
+    0% {
+        opacity: 0.7;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0.7;
+    }
+}
+
+
+/* =========================================================
+   11. SCROLL MAIS FLUIDO
+   ========================================================= */
+
+html {
+
+    scroll-behavior: smooth;
+}
+
+
+/* =========================================================
+   12. FADE SUAVE NA ABERTURA DE NOTAS
+   ========================================================= */
+
+.markdown-preview-view,
+.cm-content {
+
+    animation:
+        cinematicFade 0.45s ease;
+}
+
+@keyframes cinematicFade {
+
+    from {
+
+        opacity: 0;
+
+        transform:
+            translateY(5px);
+    }
+
+    to {
+
+        opacity: 1;
+
+        transform:
+            translateY(0);
+    }
+}
+
+
+/* =========================================================
+   13. HOVER SUTIL NOS PARÁGRAFOS
+   ========================================================= */
+
+.markdown-rendered p {
+
+    transition:
+        color 0.2s ease,
+        transform 0.2s ease;
+}
+
+.markdown-rendered p:hover {
+
+    color: rgba(255,255,255,0.96);
+
+    transform:
+        translateX(1px);
+}
+
+
+/* =========================================================
+   14. AMBIÊNCIA ESCURA MAIS PROFUNDA
+   ========================================================= */
+
+.view-content {
+
+    background:
+        linear-gradient(
+            to bottom,
+            rgba(0,0,0,0.08),
+            rgba(0,0,0,0.18)
+        );
+}

@@ -1,0 +1,180 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Topologia de Engenharia de Software.md",
+        "Metodologia Atual de Estudo.md",
+        "Engenharia de Software"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software": {
+      "children": [
+        "Engenharia de Software/1. Planejamento",
+        "Engenharia de Software/2. Requisitos",
+        "Engenharia de Software/3. Design",
+        "Engenharia de Software/4. Codificação"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/1. Planejamento": {
+      "children": [
+        "Engenharia de Software/1. Planejamento/Topologia do Planejamento.md",
+        "Engenharia de Software/1. Planejamento/Ordem Atual de Estudo.md",
+        "Engenharia de Software/1. Planejamento/Goal",
+        "Engenharia de Software/1. Planejamento/Estimate",
+        "Engenharia de Software/1. Planejamento/Plan"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/1. Planejamento/Estimate": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/1. Planejamento/Goal": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/1. Planejamento/Plan": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos": {
+      "children": [
+        "Engenharia de Software/2. Requisitos/To-Do.md",
+        "Engenharia de Software/2. Requisitos/Fundamentos",
+        "Engenharia de Software/2. Requisitos/Engenharia de Requisitos",
+        "Engenharia de Software/2. Requisitos/Abordagem Tradicional",
+        "Engenharia de Software/2. Requisitos/Abordagem Ágil"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/Abordagem Ágil": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/Abordagem Tradicional": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/Engenharia de Requisitos": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/Fundamentos": {
+      "children": [
+        "Engenharia de Software/2. Requisitos/Fundamentos/Requuisito de Software.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design": {
+      "children": [
+        "Engenharia de Software/3. Design/Fundamentos de Design.md",
+        "Engenharia de Software/3. Design/Design Arquiteturial",
+        "Engenharia de Software/3. Design/Design Detalhado",
+        "Engenharia de Software/3. Design/Design de Dados",
+        "Engenharia de Software/3. Design/Design de Interface"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Design Arquiteturial": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Design de Dados": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Design de Interface": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Design Detalhado": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Índice Interativo Python.canvas",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Listas.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Tuplas.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Dicionários.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Conjunto.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Comparativo.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/str.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/self.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/getstate.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/doc.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/dict.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Por que existe.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Classe.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Instância.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Objeto.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs/PEP 1.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs/PEP 8"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs/PEP 8": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs/PEP 8/Naming Conventions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas de Tratamento de Exceções.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas de interrupção",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas Condicionais"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas Condicionais": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas Condicionais/Expressão Condicional.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas Condicionais/Match Case.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas de interrupção": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas de interrupção/desvio.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

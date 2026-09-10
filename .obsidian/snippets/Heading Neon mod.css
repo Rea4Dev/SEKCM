@@ -1,0 +1,172 @@
+/* =========================================================
+   NEON HEADINGS — Obsidian
+   Hover + leve zoom + avanço suave
+   ========================================================= */
+
+/* ---------- CONFIG GERAL DOS TÍTULOS ---------- */
+
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6,
+
+.markdown-source-view.mod-cm6 .cm-header-1,
+.markdown-source-view.mod-cm6 .cm-header-2,
+.markdown-source-view.mod-cm6 .cm-header-3,
+.markdown-source-view.mod-cm6 .cm-header-4,
+.markdown-source-view.mod-cm6 .cm-header-5,
+.markdown-source-view.mod-cm6 .cm-header-6 {
+
+  transition:
+    transform 0.25s ease,
+    text-shadow 0.25s ease,
+    letter-spacing 0.25s ease,
+    filter 0.25s ease;
+
+  transform-origin: left center;
+  will-change: transform;
+  cursor: default;
+}
+
+/* ---------- EFEITO HOVER ---------- */
+
+.markdown-rendered h1:hover,
+.markdown-rendered h2:hover,
+.markdown-rendered h3:hover,
+.markdown-rendered h4:hover,
+.markdown-rendered h5:hover,
+.markdown-rendered h6:hover,
+
+.markdown-source-view.mod-cm6 .cm-header-1:hover,
+.markdown-source-view.mod-cm6 .cm-header-2:hover,
+.markdown-source-view.mod-cm6 .cm-header-3:hover,
+.markdown-source-view.mod-cm6 .cm-header-4:hover,
+.markdown-source-view.mod-cm6 .cm-header-5:hover,
+.markdown-source-view.mod-cm6 .cm-header-6:hover {
+
+  transform: translateX(6px) scale(1.04);
+  letter-spacing: 1px;
+  filter: brightness(1.15);
+
+  text-shadow:
+    0 0 10px currentColor,
+    0 0 20px currentColor,
+    0 0 40px currentColor,
+    0 0 70px currentColor;
+}
+
+/* =========================================================
+   CORES NEON
+   ========================================================= */
+
+/* H1 — Vermelho Carmesim */
+.markdown-rendered h1,
+.markdown-source-view.mod-cm6 .cm-header-1 {
+  color: #C82F4B;
+  text-shadow:
+    0 0 8px  rgba(200, 47, 75, 0.75),
+    0 0 20px rgba(200, 47, 75, 0.45),
+    0 0 40px rgba(200, 47, 75, 0.20);
+}
+
+/* H2 — Azul Aço */
+.markdown-rendered h2,
+.markdown-source-view.mod-cm6 .cm-header-2 {
+  color: #6990C3;
+  text-shadow:
+    0 0 8px  rgba(105, 144, 195, 0.75),
+    0 0 20px rgba(105, 144, 195, 0.45),
+    0 0 40px rgba(105, 144, 195, 0.15);
+}
+
+/* H3 — Roxo Violeta */
+.markdown-rendered h3,
+.markdown-source-view.mod-cm6 .cm-header-3 {
+  color: #A86CC1;
+  text-shadow:
+    0 0 6px  rgba(168, 108, 193, 0.70),
+    0 0 16px rgba(168, 108, 193, 0.35);
+}
+
+/* H4 — Ciano Esmeralda */
+.markdown-rendered h4,
+.markdown-source-view.mod-cm6 .cm-header-4 {
+  color: #3FBFAD;
+  text-shadow:
+    0 0 6px  rgba(63, 191, 173, 0.65),
+    0 0 14px rgba(63, 191, 173, 0.30);
+}
+
+/* H5 — Âmbar Dourado */
+.markdown-rendered h5,
+.markdown-source-view.mod-cm6 .cm-header-5 {
+  color: #E8A23A;
+  text-shadow:
+    0 0 5px  rgba(232, 162, 58, 0.65),
+    0 0 12px rgba(232, 162, 58, 0.30);
+}
+
+/* H6 — Azul Celeste */
+.markdown-rendered h6,
+.markdown-source-view.mod-cm6 .cm-header-6 {
+  color: #5BBFE8;
+  text-shadow:
+    0 0 5px  rgba(91, 191, 232, 0.60),
+    0 0 12px rgba(91, 191, 232, 0.25);
+}
+
+/* =========================================================
+   REMOVE LINHAS / DIVISORES
+   ========================================================= */
+
+/* Preview */
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6 {
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
+
+/* Live Preview / Editor */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header {
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
+
+/* Alguns temas usam pseudo-elementos */
+.markdown-rendered h1::after,
+.markdown-rendered h2::after,
+.markdown-rendered h3::after,
+.markdown-rendered h4::after,
+.markdown-rendered h5::after,
+.markdown-rendered h6::after {
+    display: none !important;
+    content: none !important;
+}
+
+/* =========================================================
+   FEITO POR REA
+   ========================================================= */
+
+.markdown-rendered em,
+.markdown-source-view.mod-cm6 .cm-em {
+  color: #6990C3 !important;
+  text-shadow:
+    0 0 8px  rgba(105, 144, 195, 0.75),
+    0 0 20px rgba(105, 144, 195, 0.45),
+    0 0 40px rgba(105, 144, 195, 0.15);
+}
+
+.markdown-rendered strong,
+.markdown-source-view.mod-cm6 .cm-strong {
+  color: #C82F4B !important;
+  text-shadow:
+    0 0 8px  rgba(200, 47, 75, 0.75),
+    0 0 20px rgba(200, 47, 75, 0.45),
+    0 0 40px rgba(200, 47, 75, 0.20);
+}

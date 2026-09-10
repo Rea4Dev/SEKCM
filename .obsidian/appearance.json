@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Red-Shadow",
+  "enabledCssSnippets": [
+    "Image Centralizer",
+    "Heading Neon mod",
+    "Mime and dash visual",
+    "Hearts",
+    "multi-window",
+    "Side bar mod",
+    "View mode mod",
+    "Mime and dash visual 2",
+    "disable notifications"
+  ],
+  "baseFontSize": 19
+}

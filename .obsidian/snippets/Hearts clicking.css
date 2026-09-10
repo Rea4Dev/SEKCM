@@ -1,0 +1,183 @@
+/* =========================================================
+   MIME AND DASH — CLICK HEART BURST
+   Explosão de corações ao clicar
+   ========================================================= */
+
+
+/* ---------------------------------------------------------
+   BASE
+--------------------------------------------------------- */
+
+.nav-file-title,
+.nav-folder-title {
+
+    position: relative;
+    overflow: visible;
+
+    transition:
+        transform 0.12s ease;
+}
+
+
+/* Pequeno feedback físico */
+
+.nav-file-title:active,
+.nav-folder-title:active {
+
+    transform:
+        scale(0.97);
+}
+
+
+/* ---------------------------------------------------------
+   HEART BURST — CAMADA 1
+--------------------------------------------------------- */
+
+.nav-file-title::before,
+.nav-folder-title::before {
+
+    content:
+        "♥  ♡  ♥";
+
+    position: absolute;
+
+    left: 16px;
+    top: 50%;
+
+    font-size: 10px;
+    letter-spacing: 4px;
+
+    opacity: 0;
+
+    pointer-events: none;
+
+    color: #ff7aa5;
+
+    text-shadow:
+        0 0 8px rgba(255, 120, 165, 0.8),
+        0 0 18px rgba(255, 90, 140, 0.35);
+
+    transform:
+        translateY(-50%)
+        scale(0.4);
+}
+
+
+/* ---------------------------------------------------------
+   HEART BURST — CAMADA 2
+--------------------------------------------------------- */
+
+.nav-file-title::after,
+.nav-folder-title::after {
+
+    content:
+        "♡  ♥  ♡";
+
+    position: absolute;
+
+    left: 12px;
+    top: 52%;
+
+    font-size: 8px;
+    letter-spacing: 6px;
+
+    opacity: 0;
+
+    pointer-events: none;
+
+    color: #ff9fbd;
+
+    text-shadow:
+        0 0 10px rgba(255, 160, 190, 0.9);
+
+    transform:
+        translateY(-50%)
+        scale(0.3);
+}
+
+
+/* ---------------------------------------------------------
+   CLICK = EXPLOSÃO
+--------------------------------------------------------- */
+
+.nav-file-title:active::before,
+.nav-folder-title:active::before {
+
+    animation:
+        heartBurst1 0.75s ease-out;
+}
+
+.nav-file-title:active::after,
+.nav-folder-title:active::after {
+
+    animation:
+        heartBurst2 0.95s ease-out;
+}
+
+
+/* ---------------------------------------------------------
+   ANIMAÇÃO PRINCIPAL
+--------------------------------------------------------- */
+
+@keyframes heartBurst1 {
+
+    0% {
+
+        opacity: 0;
+
+        transform:
+            translateY(-50%)
+            scale(0.2)
+            rotate(0deg);
+    }
+
+    15% {
+
+        opacity: 1;
+    }
+
+    100% {
+
+        opacity: 0;
+
+        transform:
+            translateY(-60px)
+            translateX(24px)
+            scale(1.4)
+            rotate(12deg);
+    }
+}
+
+
+/* ---------------------------------------------------------
+   ANIMAÇÃO SECUNDÁRIA
+--------------------------------------------------------- */
+
+@keyframes heartBurst2 {
+
+    0% {
+
+        opacity: 0;
+
+        transform:
+            translateY(-50%)
+            scale(0.2)
+            rotate(0deg);
+    }
+
+    20% {
+
+        opacity: 1;
+    }
+
+    100% {
+
+        opacity: 0;
+
+        transform:
+            translateY(-78px)
+            translateX(-10px)
+            scale(1.8)
+            rotate(-18deg);
+    }
+}

@@ -1,0 +1,35 @@
+/* ── PREVIEW HARDCODE ── */
+
+.markdown-preview-view .markdown-preview-section > div {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  margin: 0 !important;
+  margin-top: 10px !important;
+  padding: 0 !important;
+  line-height: 1.5 !important;
+}
+
+.markdown-preview-view p {
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.5 !important;
+}
+
+.markdown-preview-view ul,
+.markdown-preview-view ol {
+  margin: 0 !important;
+  padding-left: 1.5em !important;
+}
+
+.markdown-preview-view li {
+  margin: 0 !important;
+  padding: 0 !important;
+}

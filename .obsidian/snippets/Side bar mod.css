@@ -1,0 +1,103 @@
+/* =========================================================
+   FILE EXPLORER — BASE #090708
+   Dark crimson / cinematic
+   ========================================================= */
+
+/* Sidebar esquerda */
+
+.workspace-split.mod-left-split,
+.workspace-sidedock.mod-left-split {
+
+    background:
+        linear-gradient(
+            to bottom,
+            rgba(9, 7, 8, 0.96),
+            rgba(5, 4, 5, 0.98)
+        ) !important;
+
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+
+    border-right:
+        1px solid rgba(255, 70, 90, 0.05);
+}
+
+
+/* Explorer inteiro */
+
+.workspace-leaf-content[data-type="file-explorer"],
+.nav-files-container {
+
+    background:
+        rgba(9, 7, 8, 0.82) !important;
+}
+
+
+/* Header do explorer */
+
+.workspace-leaf-content[data-type="file-explorer"] .nav-header {
+
+    background:
+        rgba(9, 7, 8, 0.92) !important;
+
+    border-bottom:
+        1px solid rgba(255,255,255,0.03);
+}
+
+
+/* Arquivos */
+
+.nav-file-title,
+.nav-folder-title {
+
+    border-radius: 10px;
+
+    transition:
+        background 0.22s ease,
+        transform 0.22s ease,
+        box-shadow 0.22s ease;
+}
+
+
+/* Hover */
+
+.nav-file-title:hover,
+.nav-folder-title:hover {
+
+    background:
+        rgba(255,255,255,0.045) !important;
+
+    transform:
+        translateX(2px);
+}
+
+
+/* Arquivo ativo */
+
+.nav-file-title.is-active {
+
+    background:
+        rgba(120, 15, 35, 0.22) !important;
+
+    border:
+        1px solid rgba(255, 70, 90, 0.10);
+
+    box-shadow:
+        0 0 12px rgba(255, 40, 70, 0.14),
+        inset 0 0 10px rgba(255,255,255,0.015);
+}
+
+
+/* Scrollbar da sidebar */
+
+.workspace-split.mod-left-split ::-webkit-scrollbar-thumb {
+
+    background:
+        rgba(255, 70, 90, 0.22);
+}
+
+.workspace-split.mod-left-split ::-webkit-scrollbar-thumb:hover {
+
+    background:
+        rgba(255, 70, 90, 0.42);
+}

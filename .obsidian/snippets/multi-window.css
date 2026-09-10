@@ -1,0 +1,25 @@
+/* ================================================
+   SPLIT PANE GAP / WORKSPACE BACKGROUND
+   Troca a cor que aparece nos cantos e entre painéis.
+   Ajuste o hex pelo valor desejado.
+   ================================================ */
+
+/* Fundo geral do workspace (vaza nos cantos dos splits) */
+.workspace {
+    background-color: #0A0809 !important;
+}
+
+/* Container raiz da área de edição */
+.workspace-split {
+    background-color: #0A0809 !important;
+}
+
+/* Cada leaf/painel individual */
+.workspace-leaf {
+    background-color: #0A0809 !important;
+}
+
+/* Resize handle entre painéis */
+.workspace-leaf-resize-handle {
+    background-color: #0A0809 !important;
+}

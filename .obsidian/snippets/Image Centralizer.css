@@ -1,0 +1,31 @@
+/* ── Centralizar imagem com | center ── */
+
+/* Modo de Leitura */
+img[alt*="center"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span.internal-embed:has(img[alt*="center"]) {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+
+/* Modo de Edição (Live Preview) */
+div.internal-embed.media-embed.image-embed:has(img[alt*="center"]) {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+div.internal-embed.media-embed.image-embed:has(img[alt*="center"]) div.image-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+/* ── Bônus: | left e | right ── */
+img[alt*="left"]  { display: block; margin-right: auto; }
+img[alt*="right"] { display: block; margin-left: auto; }

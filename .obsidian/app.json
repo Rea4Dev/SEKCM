@@ -1,0 +1,16 @@
+{
+  "spellcheck": false,
+  "attachmentFolderPath": "Obsidian Media/Images/",
+  "newFileLocation": "current",
+  "foldHeading": true,
+  "showInlineTitle": false,
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "propertiesInDocument": "visible"
+}
