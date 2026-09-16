@@ -57,13 +57,6 @@
       {
         "name": "",
         "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "Obsidian Media",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
         "type": "FILES",
         "pattern": "Projetos/Menini.md",
         "patternType": "STRICT"
@@ -87,41 +80,6 @@
         "active": true,
         "type": "FILES",
         "pattern": "Engenharia de Software/4. Codificação/Back-End/Python/Python Orientado a Objeto/Introdução - Flashcards.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Orientação a Objeto em Python.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Python.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Engenharia de Software/4. Codificação/Linguagens de Programação/Linguagens de Programação.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Engenharia de Software/4. Codificação/4. Codificação.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Engenharia de Software/Engenharia de Software.md",
         "patternType": "STRICT"
       }
     ],
