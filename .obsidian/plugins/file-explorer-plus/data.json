@@ -31,6 +31,13 @@
         "type": "FILES",
         "pattern": "Engenharia de Software/4. Codificação/Back-End/Índice Back-End.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Índice Interativo Python.canvas",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
@@ -80,6 +87,13 @@
         "active": true,
         "type": "FILES",
         "pattern": "Engenharia de Software/4. Codificação/Back-End/Python/Python Orientado a Objeto/Introdução - Flashcards.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Obsidian Media",
         "patternType": "STRICT"
       }
     ],

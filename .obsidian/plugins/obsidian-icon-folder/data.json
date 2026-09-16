@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode2",
       "LiPanelLeftInactive",
       "LiClipboardList",
       "LiChartBarDecreasing",
-      "LiSquareDashedMousePointer",
-      "LiWorkflow"
+      "LiSquareDashedMousePointer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,5 @@
   },
   "Engenharia de Software/6. Integração": "LiArrowDownToLine",
   "Engenharia de Software/7. Manutenção": "❕",
-  "Engenharia de Software/5. Testes": "LiTestTube"
+  "Engenharia de Software/4. Codificação": "LiCode2"
 }

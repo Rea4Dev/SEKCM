@@ -1,0 +1,12 @@
+/* Reduz a distância entre parágrafos separados por linha em branco,
+   apenas no modo de edição (Live Preview) do Obsidian.
+
+   No CM6, cada linha (inclusive a linha vazia) é um <div class="cm-line">.
+   Não existe <p> aqui. A "distância" entre parágrafos é, na prática,
+   a altura da própria linha vazia entre eles. Por isso o alvo é a
+   linha vazia (que contém só um <br>), não a linha do parágrafo. */
+
+.markdown-source-view.mod-cm6 .cm-line:has(> br:only-child) {
+  font-size: 100%;
+  line-height: 0.5;
+}

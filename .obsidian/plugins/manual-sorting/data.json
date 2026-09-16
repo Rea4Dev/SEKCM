@@ -2,6 +2,9 @@
   "customOrder": {
     "/": {
       "children": [
+        "Topologia de Engenharia de Software.md",
+        "mudar memoria GPT.txt",
+        "Metodologia Atual de Estudo.md",
         "Engenharia de Software"
       ],
       "sortOrder": "custom"
@@ -21,35 +24,331 @@
     },
     "Engenharia de Software/0. Fontes": {
       "children": [
-        "Engenharia de Software/0. Fontes/swebok-v4.pdf"
+        "Engenharia de Software/0. Fontes/Roger S. Pressman",
+        "Engenharia de Software/0. Fontes/Sommerville",
+        "Engenharia de Software/0. Fontes/SWEBOK"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/0. Fontes/Roger S. Pressman": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/0. Fontes/Sommerville": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/0. Fontes/SWEBOK": {
+      "children": [
+        "Engenharia de Software/0. Fontes/SWEBOK/swebok-v4.pdf"
       ],
       "sortOrder": "custom"
     },
     "Engenharia de Software/1. Planejamento": {
+      "children": [
+        "Engenharia de Software/1. Planejamento/Autoria Própria",
+        "Engenharia de Software/1. Planejamento/Roger S. Pressman",
+        "Engenharia de Software/1. Planejamento/Sommerville",
+        "Engenharia de Software/1. Planejamento/SWEBOK"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/1. Planejamento/Autoria Própria": {
+      "children": [
+        "Engenharia de Software/1. Planejamento/Autoria Própria/Topologia do Planejamento.md",
+        "Engenharia de Software/1. Planejamento/Autoria Própria/Ordem Atual de Estudo.md",
+        "Engenharia de Software/1. Planejamento/Autoria Própria/Plan",
+        "Engenharia de Software/1. Planejamento/Autoria Própria/Goal",
+        "Engenharia de Software/1. Planejamento/Autoria Própria/Estimate"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/1. Planejamento/Autoria Própria/Estimate": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/1. Planejamento/Autoria Própria/Goal": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/1. Planejamento/Autoria Própria/Plan": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/1. Planejamento/Roger S. Pressman": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/1. Planejamento/Sommerville": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/1. Planejamento/SWEBOK": {
       "children": [],
       "sortOrder": "custom"
     },
     "Engenharia de Software/2. Requisitos": {
+      "children": [
+        "Engenharia de Software/2. Requisitos/Autoria Própria",
+        "Engenharia de Software/2. Requisitos/Roger S. Pressman",
+        "Engenharia de Software/2. Requisitos/Sommerville",
+        "Engenharia de Software/2. Requisitos/SWEBOK"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/Autoria Própria": {
+      "children": [
+        "Engenharia de Software/2. Requisitos/Autoria Própria/To-Do.md",
+        "Engenharia de Software/2. Requisitos/Autoria Própria/Fundamentos",
+        "Engenharia de Software/2. Requisitos/Autoria Própria/Engenharia de Requisitos",
+        "Engenharia de Software/2. Requisitos/Autoria Própria/Abordagem Tradicional",
+        "Engenharia de Software/2. Requisitos/Autoria Própria/Abordagem Ágil"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/Autoria Própria/Abordagem Ágil": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/Autoria Própria/Abordagem Tradicional": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/Autoria Própria/Engenharia de Requisitos": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/Autoria Própria/Fundamentos": {
+      "children": [
+        "Engenharia de Software/2. Requisitos/Autoria Própria/Fundamentos/Requuisito de Software.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/Roger S. Pressman": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/Sommerville": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/2. Requisitos/SWEBOK": {
       "children": [],
       "sortOrder": "custom"
     },
     "Engenharia de Software/3. Design": {
+      "children": [
+        "Engenharia de Software/3. Design/Autoria Própria",
+        "Engenharia de Software/3. Design/Roger S. Pressman",
+        "Engenharia de Software/3. Design/Sommerville",
+        "Engenharia de Software/3. Design/SWEBOK"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Autoria Própria": {
+      "children": [
+        "Engenharia de Software/3. Design/Autoria Própria/Fundamentos de Design.md",
+        "Engenharia de Software/3. Design/Autoria Própria/SWEBOK",
+        "Engenharia de Software/3. Design/Autoria Própria/Design Detalhado",
+        "Engenharia de Software/3. Design/Autoria Própria/Design de Interface",
+        "Engenharia de Software/3. Design/Autoria Própria/Design de Dados",
+        "Engenharia de Software/3. Design/Autoria Própria/Design Arquiteturial"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Autoria Própria/Design Arquiteturial": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Autoria Própria/Design de Dados": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Autoria Própria/Design de Interface": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Autoria Própria/Design Detalhado": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Autoria Própria/SWEBOK": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Roger S. Pressman": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/Sommerville": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/3. Design/SWEBOK": {
       "children": [],
       "sortOrder": "custom"
     },
     "Engenharia de Software/4. Codificação": {
-      "children": [],
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Índice Interativo Python.canvas",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Listas.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Dicionários.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Conjunto.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Tuplas.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Comparativo.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Por que existe.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/self.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Orientação a Objeto em Python.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/str.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Objeto.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Instância.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/getstate.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Classe.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/General Tips.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/doc.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/dict.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox/conta_bancaria.py"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs/PEP 8",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs/PEP 1.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs/PEP 8": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs/PEP 8/Naming Conventions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas de Tratamento de Exceções.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas Condicionais",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas de interrupção"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas Condicionais": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas Condicionais/Match Case.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas Condicionais/Expressão Condicional.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas de interrupção": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas de interrupção/desvio.md"
+      ],
       "sortOrder": "custom"
     },
     "Engenharia de Software/5. Testes": {
+      "children": [
+        "Engenharia de Software/5. Testes/Autoria Própria",
+        "Engenharia de Software/5. Testes/Roger S. Pressman",
+        "Engenharia de Software/5. Testes/Sommerville",
+        "Engenharia de Software/5. Testes/SWEBOK"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/5. Testes/Autoria Própria": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/5. Testes/Roger S. Pressman": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/5. Testes/Sommerville": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/5. Testes/SWEBOK": {
       "children": [],
       "sortOrder": "custom"
     },
     "Engenharia de Software/6. Manutenção": {
+      "children": [
+        "Engenharia de Software/6. Manutenção/Autoria Própria",
+        "Engenharia de Software/6. Manutenção/Roger S. Pressman",
+        "Engenharia de Software/6. Manutenção/Sommerville",
+        "Engenharia de Software/6. Manutenção/SWEBOK"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/6. Manutenção/Autoria Própria": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/6. Manutenção/Roger S. Pressman": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/6. Manutenção/Sommerville": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/6. Manutenção/SWEBOK": {
       "children": [],
       "sortOrder": "custom"
     },
     "Engenharia de Software/7. Implementação": {
+      "children": [
+        "Engenharia de Software/7. Implementação/Autoria Própria",
+        "Engenharia de Software/7. Implementação/Roger S. Pressman",
+        "Engenharia de Software/7. Implementação/Sommerville",
+        "Engenharia de Software/7. Implementação/SWEBOK"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/7. Implementação/Autoria Própria": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/7. Implementação/Roger S. Pressman": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/7. Implementação/Sommerville": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/7. Implementação/SWEBOK": {
       "children": [],
       "sortOrder": "custom"
     }
