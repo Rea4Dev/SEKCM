@@ -475,6 +475,76 @@
 			"y":61,
 			"width":160,
 			"height":60
+		},
+		{
+			"id":"029e8ffe9824bf5b",
+			"type":"text",
+			"text":"Os quatro pilares",
+			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
+			"x":-1600,
+			"y":-284,
+			"width":149,
+			"height":70
+		},
+		{
+			"id":"a93f9dc7d76b1061",
+			"type":"text",
+			"text":"[[Abstração]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1880,
+			"y":-314,
+			"width":157,
+			"height":60
+		},
+		{
+			"id":"f02bcb1933f5ebe3",
+			"type":"text",
+			"text":"[[Herança]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1880,
+			"y":-419,
+			"width":157,
+			"height":60
+		},
+		{
+			"id":"c4fd2dedebbdeb61",
+			"type":"text",
+			"text":"[[Classe Abstrata]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2140,
+			"y":-314,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"b483d7c8dbc04599",
+			"type":"text",
+			"text":"[[Encapsulamento]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1920,
+			"y":-244,
+			"width":197,
+			"height":60
+		},
+		{
+			"id":"018ed99ee9131045",
+			"type":"text",
+			"text":"Polimorfismo",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1880,
+			"y":-114,
+			"width":157,
+			"height":60
+		},
+		{
+			"id":"512f2134ed066207",
+			"type":"text",
+			"text":"[[Acesso a dados encapsulados]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2360,
+			"y":-244,
+			"width":200,
+			"height":60
 		}
 	],
 	"edges":[
@@ -924,6 +994,82 @@
 			"fromSide":"bottom",
 			"toNode":"2d543b4d05119671",
 			"toSide":"top"
+		},
+		{
+			"id":"a899ca6e2fdd4100",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"dbc9c5d1ef46735a",
+			"fromSide":"left",
+			"toNode":"029e8ffe9824bf5b",
+			"toSide":"right"
+		},
+		{
+			"id":"344f580bb946675a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"029e8ffe9824bf5b",
+			"fromSide":"left",
+			"toNode":"a93f9dc7d76b1061",
+			"toSide":"right",
+			"label":"2"
+		},
+		{
+			"id":"3489814fc9421739",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"029e8ffe9824bf5b",
+			"fromSide":"left",
+			"toNode":"b483d7c8dbc04599",
+			"toSide":"right",
+			"label":"3"
+		},
+		{
+			"id":"3d0ad65e23a13491",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"029e8ffe9824bf5b",
+			"fromSide":"left",
+			"toNode":"f02bcb1933f5ebe3",
+			"toSide":"right",
+			"label":"1"
+		},
+		{
+			"id":"9b51f12e4b89146e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"029e8ffe9824bf5b",
+			"fromSide":"left",
+			"toNode":"018ed99ee9131045",
+			"toSide":"right",
+			"label":"4"
+		},
+		{
+			"id":"ce2af6531928dab2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a93f9dc7d76b1061",
+			"fromSide":"left",
+			"toNode":"c4fd2dedebbdeb61",
+			"toSide":"right"
+		},
+		{
+			"id":"4842be25b9ab986a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1b0566d908a30cfe",
+			"fromSide":"bottom",
+			"toNode":"c4fd2dedebbdeb61",
+			"toSide":"bottom"
+		},
+		{
+			"id":"0465b7034f5e586f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b483d7c8dbc04599",
+			"fromSide":"left",
+			"toNode":"512f2134ed066207",
+			"toSide":"right"
 		}
 	],
 	"metadata":{

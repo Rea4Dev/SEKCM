@@ -2,6 +2,11 @@
   "customOrder": {
     "/": {
       "children": [
+        "Acesso a dados encapsulados.md",
+        "Classe Abstrata.md",
+        "Encapsulamento.md",
+        "Abstração.md",
+        "Herança.md",
         "Topologia de Engenharia de Software.md",
         "mudar memoria GPT.txt",
         "Metodologia Atual de Estudo.md",
@@ -239,6 +244,10 @@
     },
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox": {
       "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox/abratracao.py",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox/aula 7 - heranca.py",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox/016-funcionario.py",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox/17-produto.py",
         "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox/conta_bancaria.py"
       ],
       "sortOrder": "custom"

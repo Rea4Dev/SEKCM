@@ -3,14 +3,15 @@
   "enabledCssSnippets": [
     "Image Centralizer",
     "Heading Neon mod",
-    "Mime and dash visual",
     "Hearts",
     "multi-window",
     "Side bar mod",
-    "View mode mod",
-    "Mime and dash visual 2",
     "disable notifications",
-    "distancia_textos"
+    "distancia_textos",
+    "Mime and dash visual",
+    "Hearts clicking",
+    "Mime and dash visual 2",
+    "View mode mod"
   ],
   "baseFontSize": 19
 }

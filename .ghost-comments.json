@@ -1,0 +1,28 @@
+{
+  "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox/abratracao.py": {
+    "0": {
+      "text": "Necessário para classe abstrata",
+      "author": "Rea",
+      "updatedAt": 1789929945049,
+      "context": "from abc import ABC, abstractmethod"
+    },
+    "3": {
+      "text": "Classe Abstrata",
+      "author": "Rea",
+      "updatedAt": 1789929936979,
+      "context": "class Pessoa(ABC):"
+    },
+    "8": {
+      "text": "Método concreto",
+      "author": "Rea",
+      "updatedAt": 1789929953812,
+      "context": "def aniversario(self):"
+    },
+    "12": {
+      "text": "Método abstrato",
+      "author": "Rea",
+      "updatedAt": 1789929973170,
+      "context": "def estudar(self):"
+    }
+  }
+}
