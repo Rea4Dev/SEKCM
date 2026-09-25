@@ -2,6 +2,7 @@
   "customOrder": {
     "/": {
       "children": [
+        "Polimorfismo.md",
         "Acesso a dados encapsulados.md",
         "Classe Abstrata.md",
         "Encapsulamento.md",

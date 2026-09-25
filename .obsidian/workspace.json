@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "68edd813909bad93",
+        "id": "4f4c716181eba9fc",
         "type": "tabs",
         "children": [
           {
-            "id": "0e0372cd74b6c2a6",
+            "id": "fb5b018fcbdfb3a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acesso a dados encapsulados.md",
+                "file": "Sobrecarga.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acesso a dados encapsulados"
+              "title": "Sobrecarga"
             }
           },
           {
-            "id": "9a8ad34003eecec8",
+            "id": "a0bcba1344ff19cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encapsulamento.md",
+                "file": "Inclusão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encapsulamento"
-            }
-          },
-          {
-            "id": "995e8638c217bcc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encapsulamento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Encapsulamento"
+              "title": "Inclusão"
             }
           }
         ]
@@ -116,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acesso a dados encapsulados.md",
+                "file": "Sobrecarga.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -129,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.1498832702637,
-    "collapsed": true
+    "width": 337.1498832702637
   },
   "right": {
     "id": "2d25cf981e5ffc21",
@@ -233,29 +218,33 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "0e0372cd74b6c2a6",
+  "active": "fb5b018fcbdfb3a9",
   "lastOpenFiles": [
-    "Obsidian Media/Images/Pasted image 20260921185153.png",
+    "Obsidian Media/Images/Pasted image 20260924220712.png",
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Índice Interativo Python.canvas",
+    "Inclusão.md",
+    "Obsidian Media/Images/Pasted image 20260924214707.png",
+    "Duck Typing.md",
+    "Sobrecarga.md",
+    "Herança.md",
+    "Polimorfismo.md",
+    "Obsidian Media/Images/Pasted image 20260922202249.png",
+    "Obsidian Media/Images/Pasted image 20260922202227.png",
     "Acesso a dados encapsulados.md",
     "Encapsulamento.md",
+    "Obsidian Media/Images/Pasted image 20260921185153.png",
     "Obsidian Media/Images/Pasted image 20260921183443.png",
     "Obsidian Media/Images/Pasted image 20260921182856.png",
     "Obsidian Media/Images/Pasted image 20260921182823.png",
     "Obsidian Media/Images/Pasted image 20260921182727.png",
     "Obsidian Media/Images/Pasted image 20260921182703.png",
     "Obsidian Media/Images/Pasted image 20260921181648.png",
-    "Obsidian Media/Images/Pasted image 20260921181619.png",
-    "Obsidian Media/Images/Pasted image 20260920162605.png",
-    "Obsidian Media/Images/Pasted image 20260920162600.png",
-    "Obsidian Media/Images/Pasted image 20260920162550.png",
     "Abstração.md",
     "Classe Abstrata.md",
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/General Tips.md",
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox/abratracao.py",
     "Topologia de Engenharia de Software.md",
     "Metodologia Atual de Estudo.md",
-    "Herança.md",
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox/aula 7 - heranca.py",
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Objeto.md",
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sandbox/17-produto.py",
@@ -276,12 +265,8 @@
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Dicionários.md",
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Conjunto.md",
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Tuplas.md",
-    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas de Tratamento de Exceções.md",
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas Condicionais",
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Sintaxe Básica/Estruturas de interrupção",
-    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Estrutura de Dados/Comparativo.md",
-    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/PEPs/PEP 1.md",
-    "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Por que existe.md",
     "Sem título.canvas",
     "Pessoal/Estudos.canvas",
     "Estudos.canvas",
