@@ -1,7 +1,7 @@
 {
   "spellcheck": false,
   "attachmentFolderPath": "Obsidian Media/Images/",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "foldHeading": true,
   "showInlineTitle": false,
   "readableLineLength": true,
@@ -12,5 +12,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "newFileFolderPath": "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp",
+  "promptDelete": false
 }

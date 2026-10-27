@@ -2,17 +2,15 @@
   "customOrder": {
     "/": {
       "children": [
-        "Polimorfismo.md",
-        "Acesso a dados encapsulados.md",
-        "Classe Abstrata.md",
-        "Encapsulamento.md",
-        "Abstração.md",
-        "Herança.md",
-        "Topologia de Engenharia de Software.md",
-        "mudar memoria GPT.txt",
-        "Metodologia Atual de Estudo.md",
+        "Assembly (.ddl",
+        "obj.md",
+        "bin.md",
         "Engenharia de Software"
       ],
+      "sortOrder": "custom"
+    },
+    "Assembly (.ddl": {
+      "children": [],
       "sortOrder": "custom"
     },
     "Engenharia de Software": {
@@ -202,7 +200,129 @@
     },
     "Engenharia de Software/4. Codificação/Linguagens de Programação": {
       "children": [
-        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python"
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/C Sharp General Tips.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Estruturas Condicionais.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Manipulação de String.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Operadores Lógicos.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Cruzamento de Tipos.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Assembly (ddl exe).md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Classes Lógico.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Estrutura Física.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Namespaces Lógico.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Project Lógico.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Solution Lógica.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Variáveis e Tipos de Dados.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Build.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/cs.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/csproj.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Project Físico.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/sln.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Solution Física.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Organização Lógica.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Introdução ao C Sharp.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Índice Interativo C Sharp.canvas"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1.slnx"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/bin",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/Program.cs"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/bin": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/bin/Debug"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/bin/Debug": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.exe",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.targets",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/project.assets.json",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/project.nuget.cache"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ref",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/refint",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/apphost.exe",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleA.CB28C8CC.Up2Date",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.assets.cache",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.BuildWithSkipAnalyzers",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.FileListAbsolute.txt",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GlobalUsings.g.cs",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.sourcelink.json"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ref": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll"
+      ],
+      "sortOrder": "custom"
+    },
+    "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/refint": {
+      "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/C Sharp/Codes/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll"
       ],
       "sortOrder": "custom"
     },
@@ -228,6 +348,18 @@
     },
     "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python": {
       "children": [
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Abstração.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Acesso a dados encapsulados.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Classe Abstrata.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Duck Typing.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Encapsulamento.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Herança.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Inclusão.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Metodologia Atual de Estudo.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/mudar memoria GPT.txt",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Polimorfismo.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Sobrecarga.md",
+        "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Topologia de Engenharia de Software.md",
         "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Por que existe.md",
         "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/self.md",
         "Engenharia de Software/4. Codificação/Linguagens de Programação/Python/Orientação a Objeto em Python/Orientação a Objeto em Python.md",

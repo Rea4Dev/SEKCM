@@ -27,9 +27,9 @@ Em Sistemas Orientados a Objetos, ==na hora em que se vai determinar uma classe 
 2. Características (**atributos**)
 3. Coisas que pode fazer ou ser feita com ela (**métodos**)
  ![[Pasted image 20260812195550.png | center | 250]]
- ---
+# Python
 > Parte 2 (recomendado após ver parte 1 de Instância e Objeto).
-# Declarando uma Classe
+
 ![[Pasted image 20260831180633.png]]
 
 ```python
@@ -62,4 +62,22 @@ humano1 = Pessoa("Renan", 25)         # Instanciando & usando
 humano1.niver()
 
 print(f"{humano1.nome} de {humano1.idade} anos")       
+```
+
+# C Sharp
+Para criar uma nova Classe no Visual Studio, é preciso na IDE:
+![[Pasted image 20261006193634.png]]
+
+Será na própria IDE que você nomeará a Classe.
+![[Pasted image 20261006193749.png]]
+
+![[Pasted image 20261006193820.png]]
+
+```cs
+namespace Corse{
+	class Triangulo{
+		public double PrimeiroLado;
+		public double SegundoLado;
+	}
+}
 ```
